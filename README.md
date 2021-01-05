@@ -1,5 +1,5 @@
-### Hi there 👋
-
+ 🔭 Hi! I'm Mino!
+ 
 <!--
 **Minoyo1111/Minoyo1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
